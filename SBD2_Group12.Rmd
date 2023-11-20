@@ -1,6 +1,6 @@
 ---
 title: "SBD2_Group12"
-author: "Lars Wenger"
+author: "Jonas Aemmer"
 date: '2022'
 output:
     html_document:
